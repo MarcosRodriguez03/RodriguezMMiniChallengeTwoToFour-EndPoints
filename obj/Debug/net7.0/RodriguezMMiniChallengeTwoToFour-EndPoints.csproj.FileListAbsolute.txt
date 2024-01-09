@@ -31,3 +31,36 @@
 /Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeTwoToFour-EndPoints/obj/Debug/net7.0/RodriguezMMiniChallengeTwoToFour-EndPoints.pdb
 /Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeTwoToFour-EndPoints/obj/Debug/net7.0/RodriguezMMiniChallengeTwoToFour-EndPoints.genruntimeconfig.cache
 /Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeTwoToFour-EndPoints/obj/Debug/net7.0/ref/RodriguezMMiniChallengeTwoToFour-EndPoints.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\bin\Debug\net7.0\appsettings.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\bin\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.exe
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\bin\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.deps.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\bin\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.runtimeconfig.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\bin\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\bin\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.pdb
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.csproj.AssemblyReference.cache
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.AssemblyInfoInputs.cache
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.AssemblyInfo.cs
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.csproj.CoreCompileInputs.cache
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\staticwebassets\msbuild.RodriguezMMiniChallengeTwoToFour-EndPoints.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\staticwebassets\msbuild.build.RodriguezMMiniChallengeTwoToFour-EndPoints.props
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RodriguezMMiniChallengeTwoToFour-EndPoints.props
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RodriguezMMiniChallengeTwoToFour-EndPoints.props
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\scopedcss\bundle\RodriguezMMiniChallengeTwoToFour-EndPoints.styles.css
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.csproj.CopyComplete
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\refint\RodriguezMMiniChallengeTwoToFour-EndPoints.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.pdb
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\RodriguezMMiniChallengeTwoToFour-EndPoints.genruntimeconfig.cache
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\RodriguezMMiniChallengeTwoToFour-EndPoints\obj\Debug\net7.0\ref\RodriguezMMiniChallengeTwoToFour-EndPoints.dll
