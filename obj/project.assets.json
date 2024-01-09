@@ -469,19 +469,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jaykh\\.nuget\\packages\\": {}
+    "/Users/marcosrodriguez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaykh\\OneDrive\\Desktop\\CodeStack Academy\\Git repo\\RodriguezMMiniChallengeTwoToFour-EndPoints\\RodriguezMMiniChallengeTwoToFour-EndPoints.csproj",
+      "projectUniqueName": "/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeTwoToFour-EndPoints/RodriguezMMiniChallengeTwoToFour-EndPoints.csproj",
       "projectName": "RodriguezMMiniChallengeTwoToFour-EndPoints",
-      "projectPath": "C:\\Users\\jaykh\\OneDrive\\Desktop\\CodeStack Academy\\Git repo\\RodriguezMMiniChallengeTwoToFour-EndPoints\\RodriguezMMiniChallengeTwoToFour-EndPoints.csproj",
-      "packagesPath": "C:\\Users\\jaykh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaykh\\OneDrive\\Desktop\\CodeStack Academy\\Git repo\\RodriguezMMiniChallengeTwoToFour-EndPoints\\obj\\",
+      "projectPath": "/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeTwoToFour-EndPoints/RodriguezMMiniChallengeTwoToFour-EndPoints.csproj",
+      "packagesPath": "/Users/marcosrodriguez/.nuget/packages/",
+      "outputPath": "/Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMMiniChallengeTwoToFour-EndPoints/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jaykh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/marcosrodriguez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -533,7 +533,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
