@@ -7,6 +7,6 @@ namespace RodriguezMMiniChallengeTwoToFour_EndPoints.Service.GreaterThanLessThan
 {
     public interface IGreaterThanLessThan
     {
-        string CheckGreaterOrLess(double num1, double num2);
+        string CheckGreaterOrLess(string num1, string num2);
     }
 }

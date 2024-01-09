@@ -18,7 +18,7 @@ public class AddTwoNumbersController : ControllerBase
 
     [HttpGet]
     [Route("AddNumber/{num1}/{num2}")]
-    public double AddTwoNumbersFunction(string num1, string num2)
+    public string AddTwoNumbersFunction(string num1, string num2)
     {
         return _addTwoNumbersService.AddTwoNumbersFunction(num1, num2);
     }

@@ -7,20 +7,36 @@ namespace RodriguezMMiniChallengeTwoToFour_EndPoints.Service.GreaterThanLessThan
 {
     public class GreaterThanLessThanService : IGreaterThanLessThan
     {
-        public string CheckGreaterOrLess(double num1, double num2)
+        public string CheckGreaterOrLess(string num1, string num2)
         {
-            if (num1 > num2)
+            double numberOne = 0;
+            double numberTwo = 0;
+
+            bool isTrue = double.TryParse(num1, out numberOne);
+            bool isTrueAgain = double.TryParse(num2, out numberTwo);
+
+            if (isTrue && isTrueAgain)
             {
-                return $"{num1} is greater than {num2} \n {num2} is less than {num1}";
-            }
-            else if (num1 == num2)
-            {
-                return $"{num1} is equal too {num2} ";
+                if (numberOne > numberTwo)
+                {
+                    return $"{numberOne} is greater than {numberTwo} \n {numberTwo} is less than {numberOne}";
+                }
+                else if (numberOne == numberTwo)
+                {
+                    return $"{numberOne} is equal too {numberTwo} ";
+                }
+                else
+                {
+                    return $"{numberTwo} is greater than ${numberOne} \n {numberOne} is less than {numberTwo}";
+                }
             }
             else
             {
-                return $"{num2} is greater than ${num1} \n {num1} is less than {num2}";
+                return "pick some real numbers ";
             }
+
+
+
         }
     }
 }
